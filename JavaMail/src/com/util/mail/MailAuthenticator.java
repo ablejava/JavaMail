@@ -10,7 +10,7 @@ import javax.mail.PasswordAuthentication;
  */
 public class MailAuthenticator extends Authenticator{
 	private  String username="15026933568";   
-	private  String password="xzw19910721";   
+	private  String password="******";   
 	
 	public MailAuthenticator() {
 		super();
